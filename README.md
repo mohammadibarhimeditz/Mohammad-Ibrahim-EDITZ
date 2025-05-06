@@ -1,2 +1,44 @@
 # Mohammad-Ibrahim-EDITZ
 Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ibrahim's Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Ibrahim</h1>
+    <p>Graphic Designer & Video Editor</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I’m a professional graphic designer and video editor with 6+ years of experience.
+      I'm from Chattogram, Bangladesh and a 2025 SSC candidate from Modern School.
+    </p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Logo Design</strong> – Branding for local businesses</li>
+      <li><strong>YouTube Video Editing</strong> – Over 100+ projects completed</li>
+      <li><strong>Motion Graphics</strong> – Promo videos & intros</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: yourname@example.com</p>
+    <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Ibrahim. All rights reserved.</p>
+  </footer>
+</body>
+</html>
